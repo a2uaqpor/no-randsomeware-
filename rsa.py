@@ -1,5 +1,3 @@
-# no-randsomeware-
-
 from random import randint, randrange
 
 def is_prime(n):
